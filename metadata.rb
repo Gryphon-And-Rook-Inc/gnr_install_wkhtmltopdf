@@ -1,4 +1,4 @@
-name              'gnr_install_wkhtmltopdf_0.12.2.1'
+name              'gnr_install_wkhtmltopdf'
 maintainer        'Gryphon & Rook Inc'
 license           'All rights reserved'
 description       'Install wkhtmltopdf 0.12.2.1'
