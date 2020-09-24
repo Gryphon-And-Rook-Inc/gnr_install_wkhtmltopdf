@@ -1,4 +1,4 @@
 package 'wkhtmltopdf' do
-  version "0.12.2"
+  version "0.12.6"
   action :install
 end
