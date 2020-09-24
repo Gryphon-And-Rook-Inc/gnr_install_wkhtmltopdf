@@ -1,3 +1,3 @@
-gnr_install_wkhtmltopdf Cookbook
+gnr_server_tools Cookbook
 ====================
-Installs wkhtmltopdf 0.12.2.1
+Installs custom tools for the server
